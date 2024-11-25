@@ -1,0 +1,11 @@
+echo "# My-FIrst-repositoryy" >> 'README.md'
+git init
+git add README.md
+git commit -m "first commit"
+git branch -Readme-edits main
+git remote add origin https://github.com/Pascua292671/My-FIrst-repositoryy.git
+git push -u origin main
+
+  # H1
+1. Tokyo revengers
+
